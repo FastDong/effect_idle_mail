@@ -1,6 +1,26 @@
 {
   "version": 1,
-  "updated": "2026-09-27T09:00:34+09:00",
-  "mails": [],
+  "updated": "2026-09-27T23:46:09+09:00",
+  "mails": [
+    {
+      "id": "m-20260927-01",
+      "title": "오픈사료",
+      "body": "ㅋㅋ",
+      "from": "운영자",
+      "start": "2026-09-27T23:45:00+09:00",
+      "end": "2026-10-11T23:45:00+09:00",
+      "installedBefore": null,
+      "rewards": [
+        {
+          "type": "goldMinutes",
+          "amount": 1440
+        },
+        {
+          "type": "companionTicket",
+          "amount": 5
+        }
+      ]
+    }
+  ],
   "coupons": []
 }
